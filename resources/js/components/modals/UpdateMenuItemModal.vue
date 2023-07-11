@@ -36,7 +36,7 @@
               id="name"
               type="text"
               v-model="newItem.name"
-            />
+            />sdfsdfsdfsddsssss
           </template>
         </DefaultField>
 

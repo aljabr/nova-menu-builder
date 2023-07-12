@@ -6230,7 +6230,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
             "onUpdate:modelValue": _cache[2] || (_cache[2] = function ($event) {
               return $props.newItem.name = $event;
             })
-          }, null, 10 /* CLASS, PROPS */, _hoisted_2), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelText, $props.newItem.name]])];
+          }, null, 10 /* CLASS, PROPS */, _hoisted_2), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelText, $props.newItem.name]]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("sdfsdfsdfsddsssss ")];
         }),
         _: 1 /* STABLE */
       }, 8 /* PROPS */, ["errors", "field"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_DefaultField, {
